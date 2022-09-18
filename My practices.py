@@ -100,3 +100,4 @@ print(number)
 # 24.	To calculate simple interest
 # 25.	To remove given character from a sting
 # 26.	To count occurrence of a given character in the string
+#hi testing for git updates
