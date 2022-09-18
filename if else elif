@@ -1,0 +1,37 @@
+# a=100
+# b=int(input('enter your number'))
+#
+# if a>b :
+#     print("your number is lesser than 100")
+#
+# elif a==b :
+#     print('your number is equal to 100')
+#
+# else :
+#     print("your number is greater than 100")
+
+# list=[1,2,3,4,5]
+#
+# w= int(input('enter your number: '))
+#
+# if w in list:
+#     print('it is in the list')
+#
+# else :
+#     print('it is not in the list')
+
+
+# age=int(input('enter your age: '))
+#
+# if 18<age<100 :
+#     print("you can drive")
+#
+# elif age==18 :
+#     print('please come and apply for DL')
+#
+# elif 7<age<18 :
+#     print ('you cannot drive')
+#
+# else :
+#     print("please enter age between 7-100")
+
