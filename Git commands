@@ -5,6 +5,7 @@ git commit -m "comment"         to commit
 git remote add origin **url of repository       to set the url
 git remove -v                   to check if url are set or not
 git push origin master          to push codes
+test
 
 
 
